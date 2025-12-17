@@ -3,14 +3,22 @@
 Este projeto segue meus padrões pessoais de trabalho.
 Consulte `standards/` para detalhes completos.
 
+## Como o Cursor Lê Estes Padrões
+
+O Cursor lê automaticamente este arquivo (`.cursorrules`) na raiz do projeto.
+As IAs e assistentes devem seguir estas regras ao criar ou editar arquivos.
+
+**IMPORTANTE**: Os arquivos em `standards/` contêm detalhes completos. Sempre consulte-os quando necessário.
+
 ## Referências
 
 - **Padrões de trabalho**: `standards/README.md`
-- **Regras de Markdown**: `standards/markdown.rules.md`
-- **Regras de IA**: `standards/ai.rules.md`
+- **Regras de Markdown**: `standards/markdown.rules.md` (CONSULTE SEMPRE ao editar .md)
+- **Regras de IA**: `standards/ai.rules.md` (regras específicas para assistentes)
 - **Template de README**: `standards/readme.template.md`
 - **Assinatura**: `standards/readme.signature.md`
 - **Links úteis**: `standards/links.md`
+- **Padrões zshrc**: `standards/zshrc.rules.md`
 
 ## Regras Básicas
 
