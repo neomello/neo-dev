@@ -1,0 +1,14 @@
+{
+  "name": "playground",
+  "version": "0.1.0",
+  "description": "API mínima para testes e validação",
+  "main": "publish-scalar.js",
+  "scripts": {
+    "publish": "node publish-scalar.js",
+    "publish:help": "node publish-scalar.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  }
+}
+
