@@ -1,0 +1,32 @@
+{
+  "name": "scalar-api-starter",
+  "version": "1.0.0",
+  "description": "Starter project com OpenAPI, Solidity, IPFS e Scalar",
+  "main": "validate-openapi.js",
+  "scripts": {
+    "validate": "node validate-openapi.js",
+    "validate:watch": "nodemon --watch openapi.yaml --exec 'node validate-openapi.js'",
+    "ipfs:example": "node example-usage.js",
+    "scalar:open": "./open-scalar.sh",
+    "scalar:serve": "scalar openapi.yaml",
+    "scalar:cli": "scalar openapi.yaml --port 3000",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "openapi",
+    "scalar",
+    "solidity",
+    "ipfs",
+    "nft",
+    "token"
+  ],
+  "author": "MELLØ // POST-HUMAN",
+  "license": "MIT",
+  "dependencies": {
+    "js-yaml": "^4.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
+

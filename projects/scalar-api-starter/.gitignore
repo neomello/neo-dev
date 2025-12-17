@@ -1,0 +1,10 @@
+node_modules/
+.temp-ipfs.json
+.env
+.env.local
+*.log
+.DS_Store
+artifacts/
+cache/
+coverage/
+
