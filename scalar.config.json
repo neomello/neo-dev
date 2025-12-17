@@ -1,0 +1,9 @@
+{
+  "spec": {
+    "url": "https://raw.githubusercontent.com/neomello/neo-dev/main/projects/scalar-api-starter/openapi.yaml"
+  },
+  "theme": "default",
+  "layout": "modern",
+  "darkMode": true
+}
+
