@@ -104,7 +104,6 @@ O workspace está **estruturalmente pronto** para 2026 com padrões globais bem 
 
 #### Removido dos Padrões
 
--  `scalar-api-starter` - Removido de padrões globais
 -  Funções específicas removidas de `zshrc.rules.md`
 -  Aliases específicos removidos de `zshrc.analysis.md`
 
@@ -171,23 +170,17 @@ standards/
 
 1.  **CONCLUÍDO:** Adicionar referência ao workflow em `standards/README.md`
 
--  Referência adicionada no início do arquivo
--  Menciona que padrões seguem `neomello-workflow.md`
--  Link para `WORKFLOW.md` incluído
+   Referência adicionada no início do arquivo. Menciona que padrões seguem `neomello-workflow.md`. Link para `WORKFLOW.md` incluído.
 
 1.  **CONCLUÍDO:** Criar `standards/WORKFLOW.md` com resumo do workflow
 
--  Arquivo criado com resumo completo dos workflows
--  Referencia `neomello-workflow.md` para detalhes
--  Inclui princípios, workflows, perfis e regras de transição
+   Arquivo criado com resumo completo dos workflows. Referencia `neomello-workflow.md` para detalhes. Inclui princípios, workflows, perfis e regras de transição.
 
 ### Prioridade Baixa
 
 1.  **CONCLUÍDO:** Adicionar data de última atualização nos padrões
 
--  Data adicionada em: `standards/README.md`, `standards/ai.rules.md`, `standards/markdown.rules.md`, `standards/readme.signature.contracts.md`
--  Data padrão: 2025-12-25
--  Útil para rastreamento de mudanças
+   Data adicionada em: `standards/README.md`, `standards/ai.rules.md`, `standards/markdown.rules.md`, `standards/readme.signature.contracts.md`. Data padrão: 2025-12-25. Útil para rastreamento de mudanças.
 
 ---
 
