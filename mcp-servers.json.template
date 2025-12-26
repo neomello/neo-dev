@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "thirdweb-api": {
+      "url": "https://api.thirdweb.com/mcp?secretKey=YOUR_THIRDWEB_SECRET_KEY"
+    },
+    "GitKraken": {
+      "command": "gk",
+      "args": [
+        "mcp",
+        "--host=cursor"
+      ],
+      "type": "stdio"
+    }
+  }
+}

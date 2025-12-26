@@ -4,13 +4,14 @@ info:
   description: API para gerenciar tokens ERC20 e NFTs com integração IPFS
   version: 1.0.0
   contact:
-    name: MELLØ // POST-HUMAN
-    email: dev@neo.dev
+    name: MELLØ // NEØ Protocol
+    github: https://github.com/NEO-PROTOCOL
+    email: neo@neoprotocol.space
 
 servers:
   - url: http://localhost:3000/api
     description: Local development server
-  - url: https://api.neo.dev
+  - url: https://api.neoprotocol.space
     description: Production server
 
 tags:
@@ -121,7 +122,7 @@ components:
           example: NEØ Token
         symbol:
           type: string
-          example: NEO
+          example: NEØ
         initialSupply:
           type: string
           pattern: '^[0-9]+$'

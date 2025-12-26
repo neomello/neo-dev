@@ -6,7 +6,7 @@ info:
   license:
     name: MIT
   contact:
-    name: MELLØ // POST-HUMAN
+    name: MELLØ // NEØ Protocol
 
 servers:
   - url: http://localhost:3000
