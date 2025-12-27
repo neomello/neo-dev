@@ -85,7 +85,7 @@ Commits must be clear, small, and traceable.
 
 Format:
 
-```
+```text
 type: concise description
 ```
 
