@@ -1,4 +1,5 @@
 {
+  "_comment": "This is a template file. Replace YOUR_THIRDWEB_SECRET_KEY with your actual secret key from ~/.zshrc.secrets",
   "mcpServers": {
     "thirdweb-api": {
       "url": "https://api.thirdweb.com/mcp?secretKey=YOUR_THIRDWEB_SECRET_KEY"
